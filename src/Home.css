@@ -1,0 +1,54 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 10px;
+    gap: 10px;
+}
+#hire{
+    position: relative;
+   padding-top: 5%;
+    left: 15%;
+    font-size: 45px;
+    margin: auto;
+    font-weight: 300;
+}
+#We{
+    position: relative;
+   padding-top: 4%;
+    /* left: 15%; */
+    font-size: 20px;
+    width: 80%;
+    margin: auto;
+    font-weight: 300;
+    color: rgb(54, 49, 49);
+}
+.course{
+    width: 90%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.pro{
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(150, 150, 190);
+}
+.pro1{
+    width: 35%;
+    padding-left: 15%;
+    font-size: 32px;
+    padding-top: 5%;
+    color: aliceblue;
+}
+.pro2{
+    width: 15%;
+    height: 60px;
+    margin-left: 60%;
+    position: absolute;
+    margin-top: -10%;
+    font-size: 15px;
+    background-color: aliceblue;
+    color: rgb(26, 26, 161);
+    border-radius: 10px;
+}

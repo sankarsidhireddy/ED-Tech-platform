@@ -1,0 +1,69 @@
+
+.maincon{
+    width: 350px;
+    height: 60vh;
+    background-color: rgb(123, 190, 123);
+    margin-top: 5%;
+    /* position: relative; */
+    /* margin: 10%; */
+    
+}
+/* .maincon:hover{
+    background-color: rgb(54, 201, 54); 
+}*/
+.img img{
+    padding-top: 20px;
+    padding-left:20px;
+}
+.title{
+    width: 70%;
+    font-size: 25px;
+    padding-left:20px;
+}
+.dec{
+    width: 70%;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    color: rgb(90, 81, 167);
+}
+.maincon i{
+    padding-left: 80%;
+    padding-top: 20px;
+    font-size: 30px;
+}/*
+.maincon1{
+    width: 25%;
+    height: 70vh;
+    background-color:rgb(210, 210, 221);
+    position: relative;
+    margin: 10%;
+}
+.maincon:hover{
+    background-color: rgb(54, 201, 54);
+}
+.im img{
+    padding-top: 20px;
+    padding-left:20px;
+}
+.titl{
+    width: 70%;
+    font-size: 25px;
+    padding-left:20px;
+}
+.de{
+    width: 70%;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    color: rgb(90, 81, 167);
+}
+.maincon1 i{
+    padding-left: 80%;
+    padding-top: 20px;
+    font-size: 30px;
+} */
+/* .pinkcard{
+   background-color: palevioletred;
+
+} */

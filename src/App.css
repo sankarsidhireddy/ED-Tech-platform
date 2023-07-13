@@ -1,0 +1,36 @@
+.nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 8vh;
+  background-color:rgb(234, 239, 243);
+}
+a{
+  color: cadetblue;
+  text-decoration:none;
+}
+a:hover{
+  color: rgb(0, 96, 134);
+}
+/* .nav:hover{
+  background-color: gray;
+} */
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content:space-around ;
+}
+.logoimg{
+  position: relative;
+  left: -10%;
+}
+.logobutton{
+  width: 13%;
+  height: 50px;
+  background-color: rgb(33, 33, 185);
+  color: aliceblue;
+  font-size: 20px;
+  border-radius: 10px;
+}
+

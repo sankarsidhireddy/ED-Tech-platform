@@ -1,0 +1,128 @@
+.login1{
+    width: 65%;
+    height: 180vh;
+    background-color: rgb(37, 28, 28);
+    margin: auto;
+    margin-top: 5%;
+}
+.login1 .img1{
+    width: 30%;
+    height: 15%;
+    position: relative;
+    margin-left: 26%;
+}
+#h1{
+    color: aliceblue;
+    font-weight: 500;
+    padding-left: 37%;
+}
+#h2{
+    color: aliceblue;
+    font-weight: 500;
+    padding-left: 12%;
+    padding-top: 20px;
+    font-size: 40px;
+}
+#H3{
+    color: aliceblue;
+    font-weight: 500;
+    padding-left: 12%;
+    top: 20%;
+    font-weight: 500;
+    font-size: 25px;
+}
+#tec{
+    color: aliceblue;
+    font-weight: 500;
+    padding-left: 12%;
+    top: 24%;
+    font-weight: 500;
+    font-size: 25px;
+}
+#input1{
+    /* color: aliceblue; */
+     margin-left: 12%;
+     width: 60%;
+     height: 35px;
+     font-size: 20px;
+     /* border-bottom: none;
+     border-left:none; */
+     border-radius: 10px;
+}
+#ex{
+    color: aliceblue;
+    font-weight: 500;
+    padding-left: 12%;
+    top: 44%;
+    font-weight: 500;
+    font-size: 25px;
+}
+#na{
+    color: aliceblue;
+    font-weight: 500;
+    padding-left: 12%;
+    top: 47%;
+    font-weight: 500;
+    font-size: 25px;
+}
+#ph{
+    color: aliceblue;
+    font-weight: 500;
+    padding-left: 40%;
+    margin-top: -6.5%;
+    font-weight: 500;
+    font-size: 25px;
+}
+#n1{
+     margin-left: 12%;
+     width: 25%;
+     height: 35px;
+     font-size: 20px;
+     border-radius: 10px;
+}
+#n2{
+    margin-left: 12%;
+    width: 25%;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#b1{
+    color: aliceblue;
+    font-weight: 500;
+    padding-left: 12%;
+    top: 55%;
+    font-weight: 500;
+    font-size: 25px;
+}
+#n3{
+     margin-left: 12%;
+     width: 60%;
+     height: 35px;
+     font-size: 20px;
+     border-radius: 10px;
+}
+#m1{
+    color: aliceblue;
+    font-weight: 500;
+    padding-left: 12%;
+    top: 75%;
+    font-weight: 500;
+    font-size: 25px;
+}
+textarea{
+    margin-left: 12%;
+    width: 60%;
+    height: 100px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+#B1{
+    margin-left: 12%;
+    width: 60%;
+    height: 45px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: blue;
+    margin-top: 5%;
+}
